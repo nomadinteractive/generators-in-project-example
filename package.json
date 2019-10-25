@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "generate-model": "nomad-generator-sequalize",
-    "generate-rud": "nomad-generator-mens"
+    "generate-crud": "nomad-generator-mens"
   },
   "author": "",
   "license": "ISC",
