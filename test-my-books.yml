@@ -1,0 +1,9 @@
+name:
+  singular: my books
+  plural: my books
+endpointPrefix: /api/
+fields:
+  id: int#
+  title: string+
+  description: text
+  published_at: timestamp

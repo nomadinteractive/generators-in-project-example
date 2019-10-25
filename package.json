@@ -1,0 +1,16 @@
+{
+  "name": "generator-cmd-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-model": "nomad-generator-sequalize",
+    "generate-rud": "nomad-generator-mens"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nomad-generator-sequalize": "git+ssh://git@ship.nomadinteractive.co:nomad-interactive/generator-sequalize.git",
+    "nomad-generator-mens": "git+ssh://git@ship.nomadinteractive.co:nomad-interactive/generator-mens.git"
+  }
+}
