@@ -1,5 +1,5 @@
 name:
-  singular: my books
+  singular: my book
   plural: my books
 endpointPrefix: /api/
 fields:
