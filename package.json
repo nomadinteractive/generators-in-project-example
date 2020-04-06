@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nomad-generator-sequalize": "git+ssh://git@ship.nomadinteractive.co:nomad-interactive/generator-sequalize.git",
-    "nomad-generator-mens": "git+ssh://git@ship.nomadinteractive.co:nomad-interactive/generator-mens.git"
+    "@nomadinteractive/generator-sequalize": "1.0.2",
+    "@nomadinteractive/generator-mens": "1.0.1"
   }
 }
